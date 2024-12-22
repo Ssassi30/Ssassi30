@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD1kzO4gL1Vz1So/giphy.gif" alt="Welcome GIF" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ5bzBmbDd0c3d0Y2pkaGp3OGhsNXhyNTNvdnZzcmFzcWh3ZGliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uldwB7EijTDTwKHQED/giphy.webp" alt="Welcome GIF" width="300"/>
 </div>
 
 Je suis **[Sassi Slim](https://github.com/Ssassi30)**, étudiant en **ingénierie informatique**. Passionné par la **cybersécurité**, la **forensics**, la **programmation embarquée** et l'innovation technologique, je m'engage dans des projets visant à apporter des solutions durables et intelligentes aux défis modernes.

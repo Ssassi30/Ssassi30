@@ -12,6 +12,15 @@ J'aime beaucoup travailler sur des projets, quels qu'ils soient, et je suis **ou
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ssassi30&theme=github)
+
+---
+
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Stars-yellow)
+
+
+---
+
 ## 📊 Mes Statistiques GitHub
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Ssassi30&show_icons=true&theme=radical&count_private=true)  
@@ -87,3 +96,7 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 - **Passions** : **Formule 1**, **motos**, **technologie des véhicules intelligents**.  
 - **Matériel** : **Microcontrôleurs**, **Arduino**, **IoT**.  
 - **Sécurité** : Recherche et développement en **cybersécurité**.  
+
+## 🔗 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ssassi30)

@@ -12,7 +12,8 @@ J'aime beaucoup travailler sur des projets, quels qu'ils soient, et je suis **ou
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ssassi30&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssassi30&theme=github)
+
 
 ---
 

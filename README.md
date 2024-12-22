@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ5bzBmbDd0c3d0Y2pkaGp3OGhsNXhyNTNvdnZzcmFzcWh3ZGliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uldwB7EijTDTwKHQED/giphy.webp" alt="Welcome GIF" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ5bzBmbDd0c3d0Y2pkaGp3OGhsNXhyNTNvdnZzcmFzcWh3ZGliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uldwB7EijTDTwKHQED/giphy.webp" alt="Welcome GIF" width="500"/>
 </div>
 
 Je suis **[Sassi Slim](https://github.com/Ssassi30)**, étudiant en **ingénierie informatique**. Passionné par la **cybersécurité**, la **forensics**, la **programmation embarquée** et l'innovation technologique, je m'engage dans des projets visant à apporter des solutions durables et intelligentes aux défis modernes.
 
-Je suis actuellement **dans mes débuts en cybersécurité** et je souhaite lancer une carrière dans ce domaine. 🚀
+J'aime beaucoup travailler sur des projets, quels qu'ils soient, et je suis **ouvert à tout type de projet**. Que ce soit pour la cybersécurité, l'innovation technologique ou des projets en programmation embarquée, je suis toujours prêt à relever de nouveaux défis ! 🚀
 
 ---
 
@@ -86,4 +86,4 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 
 - **Passions** : **Formule 1**, **motos**, **technologie des véhicules intelligents**.  
 - **Matériel** : **Microcontrôleurs**, **Arduino**, **IoT**.  
-- **Sécurité** : Recherche et développement en **cybersécurité**.
+- **Sécurité** : Recherche et développement en **cybersécurité**.  

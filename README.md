@@ -40,8 +40,8 @@ Salut ! Je suis **[Sassi Slim](https://github.com/votre-nom-utilisateur)**, un
 
 ## 🌐 Me Contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/votre-profil)  
-[![Email](https://img.shields.io/badge/Email-votre-email-orange)](mailto:votre-email)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/slim-sassi-377660222/)  
+[![Email](https://img.shields.io/badge/Email-votre-email-orange)](mailto:sassislim30@icloud.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-red)](https://votre-site.com)
 
 ---

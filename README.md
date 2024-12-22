@@ -1,6 +1,6 @@
 # 🌟 Bienvenue sur mon Profil GitHub !
 
-Salut ! Je suis **[Sassi Slim](https://github.com/votre-nom-utilisateur)**, un étudiant en ingenieurie informatique . 🚀
+Salut ! Je suis **[Sassi Slim](https://github.com/Ssassi30)**, un étudiant en ingénierie informatique passionné par la technologie, la cybersécurité et l'innovation. 🚀
 
 ---
 
@@ -42,16 +42,15 @@ Salut ! Je suis **[Sassi Slim](https://github.com/votre-nom-utilisateur)**, un
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/slim-sassi-377660222/)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-important)](mailto:sassislim30@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-red)](https://votre-site.com)
 
 ---
 
 ## ✨ Faits Amusants
 
-- 🌟 Passionné par l'Industrie 4.0 et l'automatisation.  
-- 🎮 Amateur de jeux vidéo et de simulation.  
-- 🚘 Fasciné par les technologies des voitures intelligentes.
+- 🌟 Passionné par la **cybersécurité** et **Forensics** .  
+- 🏎️ Fan de **Formula1** .  
+- 🌍 Je parle couramment **français**, **anglais** et **italien**.  
 
 ---
 
-*Fait avec ❤️ et 🚀 par [Votre Nom](https://github.com/votre-nom-utilisateur).*
+*Fait avec ❤️ et 🚀 par [Slim Sassi](https://github.com/Ssassi30).*

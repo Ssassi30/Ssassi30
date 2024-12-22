@@ -1,5 +1,7 @@
 # 🌟 Bienvenue sur mon Profil GitHub !
 
+![Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 Salut ! Je suis **[Sassi Slim](https://github.com/Ssassi30)**, un étudiant en ingénierie informatique passionné par la technologie, la cybersécurité et l'innovation. 🚀
 
 ---

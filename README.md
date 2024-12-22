@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🇹🇳🇮🇹 Chaque projet est une nouvelle aventure. Venez voir où cela nous mène ! 🚀</h1>
+  <h1>Chaque projet est une nouvelle aventure. Venez voir où cela nous mène ! 🚀</h1>
 </div>
 
 <div align="center">
@@ -8,19 +8,6 @@
 
 
 Je suis **[Sassi Slim](https://github.com/Ssassi30)**, étudiant en **ingénierie informatique** . Passionné par la  **cybersécurité**, la **forensics**, et la **programmation embarquée** et  l'innovation technologique, je m'engage dans des projets visant à apporter des solutions durables et intelligentes aux défis modernes.
-
-Je suis actuellement **dans mes débuts en cybersécurité** et je souhaite lancer une carrière dans ce domaine. 🚀
-
----
-<div align="center">
-  <h1>🇹🇳🇮🇹 Chaque projet est une nouvelle aventure. Venez voir où cela nous mène ! 🚀</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD1kzO4gL1Vz1So/giphy.gif" alt="Welcome GIF" width="300"/>
-</div>
-
-Je suis **[Sassi Slim](https://github.com/Ssassi30)**, étudiant en **ingénierie informatique**. Passionné par la **cybersécurité**, la **forensics**, et la **programmation embarquée**, ainsi que l'**innovation technologique**, je m'engage dans des projets visant à apporter des solutions durables et intelligentes aux défis modernes.
 
 Je suis actuellement **dans mes débuts en cybersécurité** et je souhaite lancer une carrière dans ce domaine. 🚀
 

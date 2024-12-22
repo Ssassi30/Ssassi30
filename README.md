@@ -1,13 +1,13 @@
 # 🌟 Bienvenue sur mon Profil GitHub !
 
-Salut ! Je suis **[Votre Nom](https://github.com/votre-nom-utilisateur)**, un développeur passionné par la technologie, l'innovation et la transformation digitale. Je suis spécialisé en **développement logiciel**, **Industrie 4.0**, et **solutions basées sur l'IA**. 🚀
+Salut ! Je suis **[Sassi Slim](https://github.com/votre-nom-utilisateur)**, un étudiant en ingenieurie informatique . 🚀
 
 ---
 
 ## 📊 Mes Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&theme=radical&count_private=true)
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&layout=compact&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Ssassi30&show_icons=true&theme=radical&count_private=true)
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssassi30&layout=compact&theme=radical)
 
 ---
 
@@ -18,9 +18,7 @@ Salut ! Je suis **[Votre Nom](https://github.com/votre-nom-utilisateur)**, un 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ---
 

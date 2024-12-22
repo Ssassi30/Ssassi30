@@ -53,11 +53,11 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 
 ## 📂 Mes Projets
 
-### 🦁 **Gestion de Zoo**
+### 🚖 **GreeGO**
 **Description** : Application Java dédiée à la gestion des **animaux dans un zoo**, avec gestion des exceptions pour assurer la conformité des données et la robustesse des opérations.  
 **Lien** : [Zoo Management](https://github.com/votre-utilisateur/zoo-management)
 
-### 🗳️ **ISIE Voting App**
+### 📚 **VoxPulse**
 **Description** : Application web dédiée à la gestion des **élections** pour l'**Instance Supérieure Indépendante pour les Élections** (ISIE), visant à garantir l'intégrité et la transparence des processus électoraux.  
 **Lien** : [ISIE Voting App](https://github.com/votre-utilisateur/isie-voting-app)
 
@@ -80,9 +80,9 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 
 ## 🎓 Compétences Linguistiques
 
-- **Italien** : Langue maternelle. 🇮🇹  
-- **Français** : Courant. 🇫🇷  
-- **Anglais** : Courant, utilisé dans le cadre professionnel et académique. 🇬🇧
+- **Italien** : Langue maternelle.   
+- **Français** : Courant. 
+- **Anglais** : Courant, utilisé dans le cadre professionnel et académique. 
 
 ---
 

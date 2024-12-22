@@ -17,7 +17,7 @@ J'aime beaucoup travailler sur des projets, quels qu'ils soient, et je suis **ou
 
 ---
 
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-93959%20Stars-red)
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-93959%20-red)
 
 
 ---

@@ -55,17 +55,17 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 
 🎮 SYNERGY
 Description : Jeu 2D développé en C, conçu pour fonctionner sur Linux, où ma contribution principale était la mise en œuvre de la minimap pour améliorer l’expérience utilisateur.
-[Synergy](https://github.com/votre-utilisateur/nom-du-repository)
+[Synergy](https://github.com/Ssassi30/SYNERGY/tree/slimsassi)
 
 
 🚖 GreenGO
 Description : Application desktop développée avec Qt et C++, dédiée au dispatching des taxis hybrides, optimisant la gestion des trajets et des ressources. En parallèle, nous avons réalisé l'assemblage d'une voiture pour mieux intégrer les solutions logicielles à une plateforme matérielle réelle.
-[GreenGo](https://github.com/votre-utilisateur/nom-du-repository)
+[GreenGo](https://github.com/Esprit-UP-Algo/projetcpp-2a40-smartecologicaltransport)
 
 
 🌐 VoxPulse
 Description : Site web combinant offres d’emploi et plateforme éducative, visant à offrir des opportunités de carrière tout en renforçant les compétences des utilisateurs.
-[VoxPulse](https://github.com/votre-utilisateur/nom-du-repository)
+[VoxPulse](https://github.com/VoxPulse/PioPro/tree/slim)
 
 
 

@@ -53,13 +53,22 @@ En tant que développeur polyvalent, je maîtrise plusieurs technologies et outi
 
 ## 📂 Mes Projets
 
-### 🚖 **GreeGO**
-**Description** : Application Java dédiée à la gestion des **animaux dans un zoo**, avec gestion des exceptions pour assurer la conformité des données et la robustesse des opérations.  
-**Lien** : [Zoo Management](https://github.com/votre-utilisateur/zoo-management)
+🎮 SYNERGY
+Description : Jeu 2D développé en C, conçu pour fonctionner sur Linux, où ma contribution principale était la mise en œuvre de la minimap pour améliorer l’expérience utilisateur.
+[Synergy](https://github.com/votre-utilisateur/nom-du-repository)
 
-### 📚 **VoxPulse**
-**Description** : Application web dédiée à la gestion des **élections** pour l'**Instance Supérieure Indépendante pour les Élections** (ISIE), visant à garantir l'intégrité et la transparence des processus électoraux.  
-**Lien** : [ISIE Voting App](https://github.com/votre-utilisateur/isie-voting-app)
+
+🚖 GreenGO
+Description : Application desktop développée avec Qt et C++, dédiée au dispatching des taxis hybrides, optimisant la gestion des trajets et des ressources. En parallèle, nous avons réalisé l'assemblage d'une voiture pour mieux intégrer les solutions logicielles à une plateforme matérielle réelle.
+[GreenGo](https://github.com/votre-utilisateur/nom-du-repository)
+
+
+🌐 VoxPulse
+Description : Site web combinant offres d’emploi et plateforme éducative, visant à offrir des opportunités de carrière tout en renforçant les compétences des utilisateurs.
+[VoxPulse](https://github.com/votre-utilisateur/nom-du-repository)
+
+
+
 
 ---
 

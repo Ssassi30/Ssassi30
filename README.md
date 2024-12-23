@@ -65,7 +65,7 @@ Description : Application desktop développée avec Qt et C++, dédiée au dispa
 
 🌐 VoxPulse
 Description : Site web combinant offres d’emploi et plateforme éducative, visant à offrir des opportunités de carrière tout en renforçant les compétences des utilisateurs.
-[VoxPulse](https://github.com/VoxPulse/PioPro/tree/slim)
+[VoxPulse](https://github.com/VoxPulse/PioPro/tree/slim/slim)
 
 
 

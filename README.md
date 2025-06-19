@@ -49,12 +49,15 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 
 ### 🌐 [VoxPulse](https://github.com/VoxPulse/PioPro/tree/slim/slim)  
 > Plateforme web mêlant **recherche d'emploi** et **apprentissage en ligne** pour renforcer l’employabilité.
-
+> 
+> ### 🏥 [HospiConnect (Symfony)](https://github.com/Ssassi30/nom-du-repo-hopital)  
+> Application web complète de **gestion hospitalière** développée avec **Symfony 6**.
+>
+> ### 💻 [HospiConnect (JavaFX)](https://github.com/Ssassi30/nom-du-repo-hospiconnect)  
+> Application desktop en **JavaFX** pour la gestion interne d’un hôpital.
 ---
 
 ## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssassi30&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssassi30&layout=compact&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssassi30&theme=github)
 

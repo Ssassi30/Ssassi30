@@ -49,10 +49,10 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 
 ### 🌐 [VoxPulse](https://github.com/VoxPulse/PioPro/tree/slim/slim)  
 > Plateforme web mêlant **recherche d'emploi** et **apprentissage en ligne** pour renforcer l’employabilité.
-> 
+
 > ### 🏥 [HospiConnect (Symfony)](https://github.com/Ssassi30/nom-du-repo-hopital)  
 > Application web complète de **gestion hospitalière** développée avec **Symfony 6**.
->
+
 > ### 💻 [HospiConnect (JavaFX)](https://github.com/Ssassi30/nom-du-repo-hospiconnect)  
 > Application desktop en **JavaFX** pour la gestion interne d’un hôpital.
 ---
@@ -64,7 +64,7 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 ---
 
 ## 🏆 Certifications & Badges
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-red?logo=tryhackme)](https://tryhackme.com/p/SassiIT)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Completed%20Pre--Security-green)](https://tryhackme.com/p/SassiIT)  
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-93959%20-red)
 

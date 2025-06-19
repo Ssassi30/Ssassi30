@@ -65,7 +65,6 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 
 ## 🏆 Certifications & Badges
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-red?logo=tryhackme)](https://tryhackme.com/p/SassiIT)
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Completed%20Pre--Security-green)](https://tryhackme.com/p/SassiIT)  
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-93959%20-red)
 
@@ -81,9 +80,9 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 
 ## 🌍 Langues
 
-- 🇮🇹 Italien : Langue maternelle  
-- 🇫🇷 Français : Courant  
-- 🇬🇧 Anglais : Courant (usage académique et professionnel)
+- Italien : Langue maternelle  
+-  Français : Courant  
+-  Anglais : Courant (usage académique et professionnel)
 
 ---
 

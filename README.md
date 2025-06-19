@@ -34,6 +34,8 @@ Je m'investis pleinement dans des projets concrets, dans le but de développer d
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%2300736B.svg?style=flat&logo=qt&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
